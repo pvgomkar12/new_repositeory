@@ -1,2 +1,2 @@
 # new_repositeory
-this is first project
+sample project of foss project omkar yadav 
